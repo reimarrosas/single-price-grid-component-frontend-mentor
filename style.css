@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Karla", sans-serif;
+}
+
+:root {
+  font-size: 16px;
+  font-weight: 400;
+
+  --clr-cyan: hsl(179, 62%, 43%);
+  --clr-yellow: hsl(71, 73%, 54%);
+  --clr-gray: hsl(204, 43%, 93%);
+  --clr-blue: hsl(218, 22%, 67%);
+}
+
+body {
+  background-color: var(--clr-gray);
+}
