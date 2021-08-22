@@ -42,6 +42,14 @@ article {
   padding: 2em 3em;
 }
 
+div.container {
+  display: flex;
+}
+
+div.container > * {
+  flex: 1 1 50%;
+}
+
 .border-debug {
   border: 1px solid #2b2b2b;
 }
