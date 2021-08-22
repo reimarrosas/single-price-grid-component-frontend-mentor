@@ -100,6 +100,14 @@ article {
   border-radius: 5px;
 }
 
+.why__list {
+  margin-top: 1.3em;
+}
+
+.why__list-item + .why__list-item {
+  margin-top: 0.2em;
+}
+
 div.container {
   display: flex;
   flex-wrap: wrap;
