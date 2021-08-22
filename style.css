@@ -63,7 +63,8 @@ article {
 
 .community__subtext {
   color: var(--clr-yellow);
-  margin-block: 1em 0.5em;
+  margin-block: 1em 0.6em;
+  font-size: 1.3rem;
 }
 
 .community__content {
