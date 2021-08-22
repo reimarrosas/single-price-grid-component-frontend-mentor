@@ -55,6 +55,20 @@ article {
   background-color: var(--clr-gcyan);
 }
 
+.community__title {
+  color: var(--clr-cyan);
+  font-size: 1.8rem;
+}
+
+.community__subtext {
+  color: var(--clr-yellow);
+  margin-block: 1em 0.5em;
+}
+
+.community__content {
+  color: var(--clr-blue);
+}
+
 div.container {
   display: flex;
 }
