@@ -14,7 +14,7 @@
   --clr-cyan: hsl(179, 62%, 43%);
   --clr-yellow: hsl(71, 73%, 54%);
   --clr-gray: hsl(204, 43%, 93%);
-  --clr-blue: hsl(218, 22%, 67%);
+  --clr-blue: hsl(179, 65%, 75%);
 }
 
 body {
@@ -40,6 +40,18 @@ main.container {
 
 article {
   padding: 2em 3em;
+}
+
+.community {
+  background-color: #f5f5f5;
+}
+
+.subscription {
+  background-color: var(--clr-cyan);
+}
+
+.why {
+  background-color: var(--clr-blue);
 }
 
 div.container {
