@@ -28,3 +28,8 @@ a:active {
   text-decoration: none;
   color: inherit;
 }
+
+main.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
