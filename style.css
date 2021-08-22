@@ -14,7 +14,8 @@
   --clr-cyan: hsl(179, 62%, 43%);
   --clr-yellow: hsl(71, 73%, 54%);
   --clr-gray: hsl(204, 43%, 93%);
-  --clr-blue: hsl(179, 65%, 75%);
+  --clr-gblue: hsl(218, 22%, 67%);
+  --clr-gcyan: rgba(42, 178, 175, 0.5);
 }
 
 body {
@@ -51,7 +52,7 @@ article {
 }
 
 .why {
-  background-color: var(--clr-blue);
+  background-color: var(--clr-gcyan);
 }
 
 div.container {
