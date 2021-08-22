@@ -78,13 +78,23 @@ article {
 .subscription__subtext {
   color: var(--clr-gray);
   font-size: 1.1rem;
-  margin-block: 1em 0.1em;
+  margin-block: 1em 0.3em;
 }
 
 .subscription__emp {
   font-weight: 700;
   font-size: 2.2rem;
   margin-right: 0.3em;
+}
+
+.subscription__content {
+  margin-bottom: 2.5em;
+}
+
+.btn {
+  padding: 0.7em 6em;
+  background-color: var(--clr-yellow);
+  border-radius: 5px;
 }
 
 div.container {
