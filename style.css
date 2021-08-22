@@ -79,6 +79,12 @@ article {
   color: #f5f5f5;
 }
 
+.subscription__subtext {
+  color: var(--clr-gblue);
+  font-size: 1.1rem;
+  margin-block: 1em 0.5em;
+}
+
 div.container {
   display: flex;
   flex-wrap: wrap;
