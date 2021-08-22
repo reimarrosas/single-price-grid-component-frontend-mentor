@@ -33,3 +33,7 @@ main.container {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.border-debug {
+  border: 1px solid #2b2b2b;
+}
