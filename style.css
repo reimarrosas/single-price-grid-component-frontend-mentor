@@ -92,7 +92,10 @@ article {
 }
 
 .btn {
-  padding: 0.7em 6em;
+  padding-block: 0.7em;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
   background-color: var(--clr-yellow);
   border-radius: 5px;
 }
