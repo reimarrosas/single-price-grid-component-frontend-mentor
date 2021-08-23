@@ -124,3 +124,13 @@ div.container > * {
 .border-debug {
   border: 1px solid #2b2b2b;
 }
+
+footer {
+  text-align: center;
+  margin-top: 6rem;
+}
+
+.attribution > a {
+  color: var(--clr-cyan);
+  text-decoration: underline;
+}
