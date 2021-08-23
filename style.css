@@ -121,10 +121,6 @@ div.container > * {
   flex: 1 1 50%;
 }
 
-.border-debug {
-  border: 1px solid #2b2b2b;
-}
-
 footer {
   text-align: center;
   margin-top: 6rem;
